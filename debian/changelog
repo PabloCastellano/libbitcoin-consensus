@@ -1,0 +1,13 @@
+libbitcoin-consensus (2.0.0+nmu1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * New upstream version 2.0.0.
+
+ --  Pablo Castellano (Debian packages) <pablo@anche.no>  Thu, 03 Mar 2016 14:11:16 +0100
+
+libbitcoin-consensus (1.0.0+nmu1) unstable; urgency=low
+
+  * Non-maintainer upload.
+  * Initial release.
+
+ -- Pablo Castellano (Debian packages) <pablo@anche.no>  Sun, 05 Apr 2015 00:49:02 +0200
