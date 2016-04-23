@@ -1,4 +1,4 @@
-libbitcoin-consensus (2.0.0) unstable; urgency=medium
+libbitcoin-consensus (2.0.0) xenial; urgency=medium
 
   * Non-maintainer upload.
   * New upstream version 2.0.0.
